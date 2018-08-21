@@ -175,7 +175,7 @@ bar {
 }
 
 exec "xscreensaver -nosplash"
-exec "feh --bg-scale ~/Pictures/arrival_at_saturn-wallpaper-1920x1080.jpg"
+exec "feh --bg-scale ~/Pictures/bg.jpg"
 exec --no-startup-id setxkbmap us,ua -option 'grp:alt_shift_toggle'
 exec "nm-applet"
 
